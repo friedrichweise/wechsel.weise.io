@@ -1,6 +1,6 @@
-# wechsel.weise.io Homepage
+# wechsel.weise.io website
 
-Homepage for the macOS utility <a href="https://github.com/friedrichweise/wechsel/">wechsel</a>
+Website for the macOS utility <a href="https://github.com/friedrichweise/wechsel/">wechsel</a>
 
 ## dev setup
 ```
