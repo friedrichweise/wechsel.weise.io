@@ -1,4 +1,4 @@
-# <a href="https://wechsel.weise.io/">wechsel.weise.io Homepage</a>
+# wechsel.weise.io Homepage
 
 Homepage for the macOS utility <a href="https://github.com/friedrichweise/wechsel/">wechsel</a>
 
