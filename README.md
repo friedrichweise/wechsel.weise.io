@@ -1,4 +1,6 @@
-# <a href="https://weise.io/">weise.io Homepage</a>
+# <a href="https://wechsel.weise.io/">wechsel.weise.io Homepage</a>
+
+Homepage for the macOS utility <a href="https://github.com/friedrichweise/wechsel/">wechsel</a>
 
 ## dev setup
 ```
