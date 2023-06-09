@@ -43,7 +43,7 @@
 			<div class="homebrew">
 				<b>Homebrew Installation</b>
 				<pre>brew tap friedrichweise/wechsel
-brew cask install wechsel</pre>
+brew install wechsel</pre>
 			</div>
 		</div>
 		<?php endif; ?>
